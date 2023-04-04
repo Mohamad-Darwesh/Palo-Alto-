@@ -1,0 +1,39 @@
+@import url(../font/Decima+\ Bold.otf);
+@import url(../font/Decima+\ Light.otf);
+@import url(../font/Decima+\ Regular.otf);
+
+
+body {
+    font-family: Decimal ;
+    font-weight: 500;
+    font-size: 16px;
+}
+section {
+    margin: 0 auto;
+    width: 50%;
+}
+h2 {
+    font-weight: 500;
+    font-size: 44px;
+    
+
+}
+.form {
+    background: #f1f1f1;
+    padding: 1.5rem;
+label {
+    color:#000000;
+    font-family: Montserrat,Arial,sans-serif;
+}
+
+input {
+    /* width: 100%; */
+    height: 36px;
+    padding: 6px 12px;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #88989f;
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    border-radius: 4px;
+}
